@@ -21,7 +21,7 @@ Linear algebra is where I start learning the language of AI.
 ```
 linear-algebra/
 │
-├── 01-linear-vector-matrix-equations/
+├── 01_linear_vector_matrix_equations
 ├── 02-(will be uploaded)
 └── 
 ```
