@@ -37,8 +37,9 @@ $$
 👉 This transforms:
 - equation-based thinking → structure-based thinking
 - Then, by stacking vectors into a matrix, we get:
-        
-        $$Ax = b$$
+$$
+Ax = b
+$$
 
 👉 So the flow becomes:
 
@@ -54,7 +55,7 @@ $$
 
 - In AI, a `vector` represents data (features)
 - A `matrix` represents a `transformation (model / weights)`
-        $$ y = Ax $$
+$y = Ax$
 - This is exactly what happens in models:
     - input vector → multiplied by weight matrix → output vector
 
