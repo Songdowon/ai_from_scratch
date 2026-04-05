@@ -27,7 +27,7 @@ It provides the language for:
 - transforming data using matrices
 - understanding how models operate internally
 
-👉 more details : [Linear Algebra](./linear-algebra/README.md)
+👉 more details : [Linear Algebra](./linear_algebra/README.md)
 
 ---
 
