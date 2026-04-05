@@ -88,7 +88,7 @@ So in essence,
 This leads to important concepts such as:
 
 - **span** → all vectors that can be formed by linear combinations
-- **basis** → a minimal set of linearly independent vectors that generates a space
+- **basis** → a minimal set of linearly independent vectors that generate a space
 - **column space** → all possible outputs of $Ax$
 
 > In other words, linear combinations determine the space that vectors can reach.
