@@ -45,8 +45,7 @@ One particular combination of vectors using scalar coefficients.
 
 ### (2) Span
 
-span$\{a_1, a_2, \dots, a_n\}$  
-$= \{\, x_1 a_1 + x_2 a_2 + \cdots + x_n a_n \mid x_1, x_2, \dots, x_n \in \mathbb{R} \,\}$
+$\mathrm{span}\{a_1, a_2, \dots, a_n\} = \{\, x_1 a_1 + x_2 a_2 + \cdots + x_n a_n \mid x_1, x_2, \dots, x_n \in \mathbb{R} \,\}$
 
 The set of all vectors that can be generated from the given vectors.
 
@@ -66,8 +65,9 @@ The vectors are independent if only the trivial combination produces the zero ve
 
 ### (4) Column Space
 
-$A = [a_1\ a_2\ \cdots\ a_n]$  
-Col$(A)$ = span$\{a_1, a_2, \dots, a_n\}$
+$A = [a_1\ a_2\ \cdots\ a_n]$
+
+$\mathrm{Col}(A) = \mathrm{span}\{a_1, a_2, \dots, a_n\}$
 
 The column space is the set of all linear combinations of the columns of $A$.
 
