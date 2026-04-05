@@ -51,11 +51,6 @@ $$
 \{x_1a_1 + x_2a_2 + \cdots + x_na_n \mid x_1, x_2, \dots, x_n \in \mathbb{R}\}
 $$
 
-$$
-\mathrm{span}\{a_1, a_2, \dots, a_n\}
-=
-\{x_1 a_1 + x_2 a_2 + \cdots + x_n a_n \mid x_1, x_2, \dots, x_n \in \mathbb{R}\}
-$$
 
 The set of all vectors that can be generated from the given vectors.
 
