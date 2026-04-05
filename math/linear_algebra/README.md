@@ -11,8 +11,6 @@ Linear algebra is where I start learning the language of AI.
 - Learning is performed through vector and matrix computations
 
 👉 Understanding linear algebra = understanding how AI models compute
----
-
 
 ---
 
@@ -22,15 +20,21 @@ Linear algebra is where I start learning the language of AI.
 linear-algebra/
 │
 ├── 01_linear_vector_matrix_equations
-├── 02-(will be uploaded)
-└── 
+├── 02_span_basis_column_space
+└── ...
+
 ```
 
 ---
 
 ## 🔗 Connection to AI (what I'm noticing)
 
-- (will be uploaded..)
+- **01 Linear - Vector - Matrix Equations** 
+  → input transformation with $Ax+b$
+- **02 Span - Basis - Column Space** 
+  → representation spaces and essential directions
+
+---
 
 ## 🚀 Goal
 
@@ -46,5 +50,5 @@ To:
 
 ## 🧩 Note
 
-- This is a work in progress
-- I will reorganize concepts to better connect them with AI.
+- This is a work in progress.
+- I will keep refining the notes so that linear algebra concepts connect more clearly and naturally to AI.
