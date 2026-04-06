@@ -32,8 +32,6 @@ probability/
 
 - **01 Probability Axioms**
   → a consistent mathematical framework for handling uncertainty in AI
-(- 02 Conditional Probability - Independence)
-(- 03 Bayes' Theorem)
 
 ---
 
