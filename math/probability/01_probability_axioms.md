@@ -3,10 +3,10 @@
 ## 1. Flow
 
 - Probability starts from the question: **how can we mathematically describe uncertainty?**
-- A natural first idea is to define probability by the long-run relative frequency of an event.
-- But modern probability theory starts from a more general foundation: **the axiomatic definition of probability**.
+  - One natural idea is the long-run relative frequency of an event.
+  - But because that idea has limitations, modern probability theory starts from an **axiomatic approach**.
 
-> relative frequency intuition → limitation → axiomatic definition
+> Question about uncertainty → relative frequency intuition → axiomatical approach
 
 ---
 
@@ -27,7 +27,7 @@ where $n(E)$ is the number of times event $E$ occurs in $n$ trials.
 - So modern probability does not define probability by frequency itself.
 - Instead, it assigns a value $P(E)$ to each event and requires that these values satisfy a few basic axioms.
 
-> relative frequency gives intuition, but axioms give the foundation
+> Relative frequency gives intuition, but axioms give the foundation
 
 ---
 
@@ -61,7 +61,7 @@ $$
 - The axioms do not determine specific probability values; they provide the basic rules that every probability assignment must satisfy.
 - The actual values depend on the assumptions or beliefs we make about the situation.
 
-> axioms give the rules, and assumptions determine the values
+> Axioms give the rules, and assumptions determine the values
 
 ---
 
