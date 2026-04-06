@@ -10,18 +10,13 @@ Rather than just understanding mathematical foundations, I focus on the connecti
 
 ### 1. Math Foundations
 - Linear Algebra
-- (will be uploaded..)
+- Probability
 
 ### 2. Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Core Theory
+- (to be uploaded..)
 
 ### 3. Deep Learning
-- Neural Networks
-- CNN
-- (will be uploaded..)
-
+- (to be uploaded..)
 
 ---
 

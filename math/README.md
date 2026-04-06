@@ -1,9 +1,9 @@
 # 🧮 Math Foundations for AI
 
-This section is not a collection of abstract concepts, but a structured attempt to understand how mathematical ideas are directly connected to artificial intelligence.
+This section is not just a collection of abstract concepts, but a structured attempt to understand how mathematical ideas are directly connected to artificial intelligence.
 
 Rather than stopping at definitions, the goal is to:
-- find the relations among the concepts
+- understand how concepts are connected
 - see how it appears in real AI models
 
 ---
@@ -27,11 +27,20 @@ It provides the language for:
 - transforming data using matrices
 - understanding how models operate internally
 
-👉 more details : [Linear Algebra](./linear_algebra/README.md)
+👉 more details: [Linear Algebra](./linear_algebra/README.md)
 
 ---
 
-### 2. (coming soon)
+### 2. Probability (in progress)
+
+Probability provides the language for uncertainty in AI.
+
+It helps us describe:
+- uncertain events and outcomes
+- data generation and randomness
+- prediction, inference, and belief updating
+
+👉 more details: [Probability](./probability/README.md)
 
 ---
 
