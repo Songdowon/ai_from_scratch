@@ -21,6 +21,7 @@ linear-algebra/
 │
 ├── 01_linear_vector_matrix_equations
 ├── 02_span_basis_column_space
+├── 03_subspace_null_space_rank_solution_set
 └── ...
 
 ```
@@ -30,9 +31,11 @@ linear-algebra/
 ## 🔗 Connection to AI (what I'm noticing)
 
 - **01 Linear - Vector - Matrix Equations** 
-  → input transformation with $Ax+b$
+  → linear computation written as one compact structure
 - **02 Span - Basis - Column Space** 
   → representation spaces and essential directions
+- **03 Subspace - Null Space - Rank - Solution Set of $Ax=b$**
+  → reachable outputs, ignored directions and solution structure
 
 ---
 
