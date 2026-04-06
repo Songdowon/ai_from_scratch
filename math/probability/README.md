@@ -19,7 +19,7 @@ Probability helps me understand how AI handles uncertainty, data, and prediction
 ```
 probability/
 │
-├── 01_probability_axioms
+├── 01_foundations_of_probability
 ├── (02_conditional_probability_independence)
 ├── (03_bayes_theorem)
 └── ...
@@ -30,9 +30,9 @@ probability/
 
 ## 🔗 Connection to AI
 
-- **01 Probability Axioms**
-  → a consistent mathematical framework for handling uncertainty in AI
-
+- **01 Foundations of Probability**
+ → provides the mathematical foundation for representing and reasoning about uncertainty in AI
+ 
 ---
 
 ## 🚀 Goal
