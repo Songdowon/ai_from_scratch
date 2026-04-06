@@ -33,6 +33,14 @@ where $n(E)$ is the number of times event $E$ occurs in $n$ trials.
 
 ## 3. Mathematical Expression
 
+In the axiomatic approach, probability is treated as a **set function**:
+
+$$
+P:\text{events} \to [0,1]
+$$
+
+That is, probability assigns a value between 0 and 1 to each event.
+
 Let $S$ denote the set of all possible outcomes, and let $E \subseteq S$ be an event.
 
 A probability function $P$ satisfies:
