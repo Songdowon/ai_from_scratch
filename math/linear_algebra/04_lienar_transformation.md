@@ -2,10 +2,10 @@
 
 ## 1. Flow
 
-- In the previous topic, we studied how vectors generate spaces through **span**, **basis**, and **column space**.
-- There, a matrix was understood mainly through its columns and the space they generate.
-- Now the focus shifts from the structure of generated spaces to the idea of a **transformation** itself.
-- This leads naturally to **linear transformations**, which describe how vectors are mapped from one space to another while preserving linear structure.
+In the previous topic, the main idea was that a linear system can be rewritten as a vector equation, and then as a matrix equation.  
+Through that process, vectors were understood not just as isolated objects, but as quantities that can be combined linearly to generate a space.  
+Once that viewpoint is established, the next natural step is to ask what it means for a matrix to do more than simply represent equations.  
+This leads to the idea of a **linear transformation**: a rule that maps vectors from one space to another while preserving the linear structure that we have been studying.
 
 > span / basis / column space → linear transformation
 
