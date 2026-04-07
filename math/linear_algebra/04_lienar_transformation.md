@@ -83,9 +83,7 @@ Each input vector is mapped to an output vector, and because the transformation 
 If a vector is written as a linear combination, then applying $T$ gives:
 
 $$
-T(x_1v_1 + x_2v_2 + \cdots + x_nv_n)
-=
-x_1T(v_1) + x_2T(v_2) + \cdots + x_nT(v_n)
+T(x_1v_1 + x_2v_2 + \cdots + x_nv_n) = x_1T(v_1) + x_2T(v_2) + \cdots + x_nT(v_n)
 $$
 
 This means that once we know where the basic vectors are mapped, we can determine how every other vector is mapped as well.  
