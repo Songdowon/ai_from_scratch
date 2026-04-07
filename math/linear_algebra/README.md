@@ -7,7 +7,8 @@ Linear algebra is where I start learning the language of AI.
 ## 🎯 Why Linear Algebra for AI?
 
 - Data is represented as vectors.
-- Models are represented as matrix operations (y = Wx + b)
+- Models are built through matrix operations (y = Wx + b)
+- A core idea of AI models is **linear transformation**: mapping vectors from one space to another.
 - Learning is performed through vector and matrix computations
 
 👉 Understanding linear algebra = understanding how AI models compute
@@ -16,12 +17,13 @@ Linear algebra is where I start learning the language of AI.
 
 ## 📂 Structure
 
-```
+```text
 linear-algebra/
 │
 ├── 01_linear_vector_matrix_equations
 ├── 02_span_basis_column_space
 ├── 03_subspace_null_space_rank_solution_set
+├── 04_linear_transformation
 └── ...
 
 ```
@@ -36,7 +38,8 @@ linear-algebra/
   → representation spaces and essential directions
 - **03 Subspace - Null Space - Rank - Solution Set of $Ax=b$**
   → reachable outputs, ignored directions and solution structure
-
+- **04 ⭐ Linear Transformation**  
+  → mappings between spaces and structure-preserving transformations
 ---
 
 ## 🚀 Goal
